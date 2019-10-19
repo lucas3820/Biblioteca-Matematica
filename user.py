@@ -8,3 +8,4 @@ if m.primo(numero):
 else:
     print("Não é primo")
 print("par" if m.par(numero) else "impar")
+print("Quadrado:", m.potencia_quadrada(numero))

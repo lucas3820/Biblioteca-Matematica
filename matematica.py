@@ -24,3 +24,6 @@ def par (numero):
         return True
     else:
         return False 
+#potencia
+def potencia_quadrada(numero):
+    return numero**2
