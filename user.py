@@ -7,3 +7,4 @@ if m.primo(numero):
     print("É primo")
 else:
     print("Não é primo")
+print("par" if m.par(numero) else "impar")
